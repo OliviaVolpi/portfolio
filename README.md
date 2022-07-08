@@ -1,6 +1,17 @@
 # Olivia_Volpi_portfolio
 Exemples de projets de data analyse.
 
+
+## Clustering
+
+A partir des des données brutes de la FAO (Food and Agriculture Organization), 
+dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regroupements de  pays pertinents (clients, concurrents...)
+
+     - Nettoyage et analyse exploratoire des données
+     - Import de données supplémentaires 
+     - HAC, Clustering K-means, PCA
+
+
 ## Présentation interactive avec Tableau
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Présentation%20interactive%20avec%20Tableau.ipynb)
 
@@ -20,3 +31,5 @@ Dans le contexte fictif d'un commerce physique souhaitant déveloper son offre e
     - nettoyage de données (doublons, données aberrantes, formats de date...)
     - mise en forme (fusion des données, nouvelles colonnes, segmentation...)
     - analyse (courbe de Lorenz, probabilité conditionnelle, corrélations...)
+
+
