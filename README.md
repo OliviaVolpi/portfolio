@@ -1,8 +1,18 @@
 # Olivia_Volpi_portfolio
 Projets de data analyse.
 
+## Algorithme de prédiction
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%2010.ipynb)
+
+
+Rédaction d'un algorithme permettant la détection de faux billets, à partir des données d'une banque fictive. 
+
+        - Implémentation des données manquantes par régression linéaire (R^2, p-value, homoscédasticité)
+        - Prédiction
 
 ## Composition et analyse de clusters
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%209.ipynb)
+ 
 
 A partir des des données brutes de la FAO (Food and Agriculture Organization), 
 dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regroupements de  pays pertinents pour le commerce (PNB, stabilité politique...)
