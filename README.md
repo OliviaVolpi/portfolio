@@ -1,13 +1,5 @@
 Projets de data analyse.
 
-## Algorithme de prédiction
-[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%2010.ipynb)
-
-
-Rédaction d'un algorithme permettant la détection de faux billets, à partir des données d'une banque fictive. 
-
-        - Implémentation des données manquantes par régression linéaire (R^2, p-value, homoscédasticité)
-        - Prédiction
 
 ## Composition et analyse de clusters
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%209.ipynb)
@@ -20,7 +12,17 @@ dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regrou
      - Traitement des null, création et suppression de colonnes, fusion des dataframes  
      - Clustering HAC et K-means
      - Analyse des clusters (PCA, heatmap), et typologie
+     
 
+## Algorithme de prédiction
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%2010.ipynb)
+
+
+Rédaction d'un algorithme permettant la détection de faux billets, à partir des données d'une banque fictive. 
+
+        - Implémentation des données manquantes par régression linéaire (R^2, p-value, homoscédasticité)
+        - Prédiction
+        
 
 ## Présentation interactive avec Tableau
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Présentation%20interactive%20avec%20Tableau.ipynb)
