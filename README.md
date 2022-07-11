@@ -1,15 +1,16 @@
 # Olivia_Volpi_portfolio
-Exemples de projets de data analyse.
+Projets de data analyse.
 
 
-## Clustering
+## Composition et analyse de clusters
 
 A partir des des données brutes de la FAO (Food and Agriculture Organization), 
-dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regroupements de  pays pertinents (clients, concurrents...)
+dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regroupements de  pays pertinents pour le commerce (PNB, stabilité politique...)
 
-     - Nettoyage et analyse exploratoire des données
-     - Import de données supplémentaires 
-     - HAC, Clustering K-means, PCA
+     - Nettoyage et analyse exploratoire des données fournies, identification et collecte de données additionnelles
+     - Traitement des null, création et suppression de colonnes, fusion des dataframes  
+     - Clustering HAC et K-means
+     - Analyse des clusters (PCA, heatmap), et typologie
 
 
 ## Présentation interactive avec Tableau
