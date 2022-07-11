@@ -1,5 +1,17 @@
 Projets de data analyse.
 
+## WIP: Kaggle Titanic Competition
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/wip-titanic-project.ipynb)
+
+Participation en cours à la fameuse compétition Kaggle, visant à établir les meilleures 
+prédictions à partir des données relatives aux passagers du Titanic. 
+
+In English. 
+
+  - Implémentation des données null, à partir de données croisées, de la médiane, du mode...
+  - Corrélations entre variables
+  - à venir: comparaisons entre diverses méthodes de prédiction (random forest, SVM,...)
+
 
 ## Composition et analyse de clusters
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%209.ipynb)
