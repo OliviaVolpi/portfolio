@@ -1,4 +1,3 @@
-# Olivia_Volpi_portfolio
 Projets de data analyse.
 
 ## Algorithme de prédiction
