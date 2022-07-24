@@ -22,6 +22,18 @@ Rédaction d'un algorithme permettant la détection de faux billets, à partir d
         - Implémentation des données manquantes par régression linéaire (R^2, p-value, homoscédasticité)
         - Prédiction
         
+
+## Web scraping
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Web%20Scraping%20_%20%20Le%20Wagon%20Workshop.ipynb)
+
+In English. Based on the Le Wagon Workshop (attended July 2022)
+
+From the front page of a fictional online bookstore : 
+        - Data scraping (parsing), using Beautiful Soup
+        - Taking note of syntax differences between html and Python
+        - Exploring and organizing the data.
+
+        
 ## WIP: Kaggle Titanic Competition
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/wip-titanic-project.ipynb)
 
