@@ -29,23 +29,11 @@ Rédaction d'un algorithme permettant la détection de faux billets, à partir d
 In English. Based on the Le Wagon Workshop (attended July 2022)
 
 From the front page of a fictional online bookstore : 
-        - Data scraping (parsing), using Beautiful Soup
-        - Taking note of syntax differences between html and Python
-        - Exploring and organizing the data.
 
-        
-## WIP: Kaggle Titanic Competition
-[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/wip-titanic-project.ipynb)
-
-Participation en cours à la fameuse compétition Kaggle, visant à établir les meilleures 
-prédictions à partir des données relatives aux passagers du Titanic. 
-
-In English. 
-
-  - Implémentation des données null, à partir de données croisées, de la médiane, du mode...
-  - Corrélations entre variables
-  - à venir: comparaisons entre diverses méthodes de prédiction (random forest, SVM,...)
-
+     - Data scraping (parsing), using Beautiful Soup
+     - Taking note of syntax differences between html and Python  
+     - Exploring and organizing the data.
+           
 
 ## Présentation interactive avec Tableau
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Présentation%20interactive%20avec%20Tableau.ipynb)
