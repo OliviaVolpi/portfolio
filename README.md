@@ -14,12 +14,16 @@ dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regrou
      
      
      
+     
+     
 ## GoogleTrends API : Drag Race France
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Google%20Search_DragRaceFrance.ipynb)
 
 
 In English. 
 Exploring the possibilities (and limitations...) of Google Trends API with the search term "Drag Race France". 
+
+
 
 
 ## Algorithme de prédiction
