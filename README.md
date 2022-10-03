@@ -12,6 +12,8 @@ dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regrou
      - Clustering HAC et K-means
      - Analyse des clusters (PCA, heatmap), et typologie
      
+     
+     
 ## GoogleTrends API : Drag Race France
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Google%20Search_DragRaceFrance.ipynb)
 
