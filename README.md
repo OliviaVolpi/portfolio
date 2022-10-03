@@ -12,6 +12,13 @@ dans le contexte fictif d'une entreprise agro-alimentaire, identifier des regrou
      - Clustering HAC et K-means
      - Analyse des clusters (PCA, heatmap), et typologie
      
+## GoogleTrends API : Drag Race France
+[lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Google%20Search_DragRaceFrance.ipynb)
+
+
+In English. 
+Exploring the possibilities (and limitations...) of Google Trends API with the search term "Drag Race France". 
+
 
 ## Algorithme de prédiction
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/Projet%2010.ipynb)
@@ -36,6 +43,7 @@ From the front page of a fictional online bookstore :
            
 ## WIP: Kaggle Titanic Competition
 [lien](https://github.com/OliviaVolpi/data_analysis/blob/main/wip-titanic-project.ipynb)
+
 
 
 
